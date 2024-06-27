@@ -45,14 +45,14 @@ body {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    background-color: #f5f5f5;
+    background-color: #e9f0f9;
     padding: 20px 0;
 }
 
 .info-links button {
     margin: 10px;
     padding: 10px 20px;
-    background-color: #e9f0f9;
+    background-color: #f5f5f5;
     border: none;
     color: #0a1e5e;
     cursor: pointer;
@@ -63,7 +63,7 @@ body {
     display: flex;
     justify-content: center;
     padding: 20px;
-    background-color: #ffffff;
+    background-color: #fff;
 }
 
 .energy-stats, .by-the-numbers {
@@ -92,20 +92,20 @@ body {
 
 .chart-percentage {
     font-size: 24px;
-    color: #007000;
+    color: #15b415;
     text-align: center;
     width: 100%;
 }
 
 footer {
-    background-color: #0a1e5e;
-    color: white;
+    background-color: #e9f0f9;
+    color: #000;
     padding: 20px;
     text-align: center;
 }
 
 .footer-links a {
     margin: 0 10px;
-    color: white;
+    color: #0a1e5e;
     text-decoration: none;
 }
